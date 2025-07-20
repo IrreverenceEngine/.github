@@ -1,1 +1,1 @@
-# .github
+# Collection of repositories for the game/engine.  
